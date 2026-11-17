@@ -1,0 +1,6 @@
+PRE-GENERATED JWT FOR THIS LAB
+Paste only the token below into Swagger's Token header. Do not add Bearer.
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJzb2EtdG91cmlzdC1sYWIiLCJpYXQiOjE3OTQ5MTU3MTIsImV4cCI6MTg5MzQ1NjAwMH0.X1DcBwwXt5XZjr35m2X6rFrMRaqDypnlW71EJg_gZWY
+
+Expiry: 2030-01-01 UTC. Classroom demonstration only.

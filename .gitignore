@@ -1,0 +1,18 @@
+
+# Maven build files
+target/
+
+# H2 database files
+data/
+*.mv.db
+*.trace.db
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
